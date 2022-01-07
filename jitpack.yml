@@ -1,0 +1,4 @@
+jdk:
+  - Zulu11
+install:
+  - ./gradlew clean install -xtest
